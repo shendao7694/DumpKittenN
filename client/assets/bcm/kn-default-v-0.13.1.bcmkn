@@ -1,0 +1,128 @@
+{
+  "projectName": "我的作品",
+  "scenes": {
+    "scenesDict": {
+      "700824a5-44a8-4d03-a7e8-aa95d87e9b2a": {
+        "styles": [
+          "5631bae0-8d8d-4c2f-bcda-e1df797e3d73"
+        ],
+        "actorIds": [
+          "75d222f8-49d2-4353-8d8f-f6962722d17d"
+        ],
+        "id": "700824a5-44a8-4d03-a7e8-aa95d87e9b2a",
+        "visible": true,
+        "currentStyleId": "5631bae0-8d8d-4c2f-bcda-e1df797e3d73",
+        "nekoBlockJsonList": [],
+        "name": "背景",
+        "screenName": "屏幕",
+        "workspaceScrollXy": {
+          "x": 100,
+          "y": 30
+        },
+        "comments": {}
+      }
+    },
+    "currentSceneId": "700824a5-44a8-4d03-a7e8-aa95d87e9b2a",
+    "sortList": [
+      "700824a5-44a8-4d03-a7e8-aa95d87e9b2a"
+    ]
+  },
+  "styles": {
+    "stylesDict": {
+      "5d4c55ed-92c1-4ec0-a713-5d2fa3d24ad4": {
+        "id": "5d4c55ed-92c1-4ec0-a713-5d2fa3d24ad4",
+        "url": "https://creation.codemao.cn/396/c364f36a8dcf42d1a6acbe26c7eb6aaa.png",
+        "name": "一阶编程猫跳跳"
+      },
+      "31424fec-25a1-443c-a265-70ebe8ffc29b": {
+        "id": "31424fec-25a1-443c-a265-70ebe8ffc29b",
+        "url": "https://creation.codemao.cn/396/caf8f973dbe240babece35637dcafee8.png",
+        "name": "一阶编程猫跳跳"
+      },
+      "d7fd5472-43a8-4044-9e13-4f7db4a5443d": {
+        "id": "d7fd5472-43a8-4044-9e13-4f7db4a5443d",
+        "url": "https://creation.codemao.cn/396/6e4d95aecf7441e6a9885cba405baeaf.png",
+        "name": "一阶编程猫跳跳"
+      },
+      "4af1df64-ea78-424c-b980-01b4e816bb36": {
+        "id": "4af1df64-ea78-424c-b980-01b4e816bb36",
+        "url": "https://creation.codemao.cn/396/25593adb06d24d988ada59c1d2131de8.png",
+        "name": "一阶编程猫跳跳"
+      },
+      "dcffaae3-cbed-4513-bb78-3dcde0e2bcfb": {
+        "id": "dcffaae3-cbed-4513-bb78-3dcde0e2bcfb",
+        "url": "https://creation.codemao.cn/396/8aa8cbdbe82a442989b0fadb823444d4.png",
+        "name": "一阶编程猫跳跳"
+      },
+      "5631bae0-8d8d-4c2f-bcda-e1df797e3d73": {
+        "id": "5631bae0-8d8d-4c2f-bcda-e1df797e3d73",
+        "url": "https://creation.codemao.cn/396/8bc3a5b92e934d7287e63f1684b61de6.jpg",
+        "name": "沼泽",
+        "styleType": 1
+      }
+    }
+  },
+  "stageSize": {
+    "width": 562,
+    "height": 900
+  },
+  "variables": {
+    "variablesDict": {}
+  },
+  "broadcasts": {
+    "broadcastsDict": {
+      "700824a5-44a8-4d03-a7e8-aa95d87e9b2a": [
+        "Hi"
+      ]
+    }
+  },
+  "actors": {
+    "actorsDict": {
+      "75d222f8-49d2-4353-8d8f-f6962722d17d": {
+        "id": "75d222f8-49d2-4353-8d8f-f6962722d17d",
+        "position": {
+          "x": 0,
+          "y": -100
+        },
+        "scale": 100,
+        "locked": false,
+        "rotation": 0,
+        "nekoBlockJsonList": [],
+        "visible": true,
+        "workspaceScrollXy": {
+          "x": 100,
+          "y": 30
+        },
+        "name": "编程猫",
+        "styles": [
+          "5d4c55ed-92c1-4ec0-a713-5d2fa3d24ad4",
+          "31424fec-25a1-443c-a265-70ebe8ffc29b",
+          "d7fd5472-43a8-4044-9e13-4f7db4a5443d",
+          "4af1df64-ea78-424c-b980-01b4e816bb36",
+          "dcffaae3-cbed-4513-bb78-3dcde0e2bcfb"
+        ],
+        "currentStyleId": "5d4c55ed-92c1-4ec0-a713-5d2fa3d24ad4",
+        "comments": {}
+      }
+    }
+  },
+  "audios": {
+    "audiosDict": {},
+    "sortList": [],
+    "currentAudioId": ""
+  },
+  "procedures": {
+    "proceduresDict": {}
+  },
+  "version": "0.13.0",
+  "hidden_toolbox": {
+    "toolbox": [],
+    "blocks": [],
+    "forcibleShowBlocks": []
+  },
+  "courseMaterials": {
+    "courseMaterialsDict": {},
+    "sortList": []
+  },
+  "previewUrl": "https://creation.codemao.cn/922/user-files/FhtufRx5eXzA6hDNQdT14VVpPkUR.jpeg"
+}

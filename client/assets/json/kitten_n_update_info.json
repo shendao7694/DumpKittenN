@@ -1,0 +1,13 @@
+{
+  "name": "点个猫App",
+  "android": {
+    "url": "https://kn-cdn.codemao.cn/971/pickcat/pickcat_5.10.0_release_5100_jiagu_aligned_signed_hi.apk",
+    "version": "5.10.0",
+    "date": "2025.11.06"
+  },
+  "ios": {
+    "url": "https://apps.apple.com/us/app/%E7%BC%96%E7%A8%8B%E7%8C%ABnemo-%E7%94%A8%E7%A7%AF%E6%9C%A8%E5%AE%9E%E7%8E%B0%E4%B9%90%E8%B6%A3%E7%BC%96%E7%A8%8B/id1394004806",
+    "version": "5.10.0",
+    "date": "2025.11.06"
+  }
+}
