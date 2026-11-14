@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkneko=self.webpackChunkneko||[]).push([[4686],{34686:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var u="blink-mode-pad",c="blink-mode-kids";function o(){return document.documentElement.classList.remove(c),document.documentElement.classList.add(u),function(){document.documentElement.classList.remove(u)}}}}]);
+//# sourceMappingURL=4686.10bfcf00.chunk.js.map

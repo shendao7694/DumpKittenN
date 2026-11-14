@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="438px" viewBox="0 0 500 438" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_mask_cognitive_object</title>
+    <g id="认知-AI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="认知-AI-正在拍照-识别物体" transform="translate(-31.000000, -185.000000)">
+            <g id="img_mask_cognitive_object" transform="translate(31.000000, 185.000000)">
+                <path d="M500,0 L499.824439,438 L0.274513059,438 L0,0 L500,0 Z M407,64 L93,64 C88.581722,64 85,67.581722 85,72 L85,72 L85,366 C85,370.418278 88.581722,374 93,374 L93,374 L407,374 C411.418278,374 415,370.418278 415,366 L415,366 L415,72 C415,67.581722 411.418278,64 407,64 L407,64 Z" id="形状结合" fill="#000000" opacity="0.5"></path>
+                <path d="M92,59 L408,59 C414.627417,59 420,64.372583 420,71 L420,367 C420,373.627417 414.627417,379 408,379 L92,379 C85.372583,379 80,373.627417 80,367 L80,71 C80,64.372583 85.372583,59 92,59 Z" id="矩形" stroke="#FFFFFF" stroke-width="3.55871886" opacity="0.600000024" stroke-linecap="round" stroke-dasharray="7.117437705015525"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>小键盘/ic_调色盘</title>
+    <defs>
+        <pattern id="pattern-1" width="100%" height="100%" patternUnits="objectBoundingBox">
+            <use xlink:href="#image-2"></use>
+        </pattern>
+        <image id="image-2" width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAAFAAAAACy3fD9AAADKklEQVQ4EVWUS47TQBRFb9nlOP1JdwuQQEIIMQMxZ8QSWAM7Y8wC2AFiwpBJSyAxbASIX5ruJI4/xbllB4Kt51eyq07d9ymHV+l5OpB0lC1oga9ToQIr923g3XqLtaPftAoN46aTtrZeajvFlRKIwC0VjCOjGf7frTyDz9LA3H5QsHW9itaQnQFlDNALRmjBOGKzkHQ4IZX8jQsXAO5gBo6wSeEEjlfM5dMedFQ5DwNhByXgeT+Dh1FZYHFwiA51P2Q2iS1aBjVAe7zVBJX4Gn8CLGWFIzR0AA0zhBxm+wt0yIhpdEyYVYa22oAdoRF/iMoyOLNTuMAKF8MwCiQKJAqTC7KlCm0xAjv0RG3VUY5eKzy7obDmeQdoDrtPVJSqrgBdbaTrZlLJpIbsA1MXDDyhuh1httgBz0PsmiT8Zqa0AOiqu6KlQUvKuFwDZNN1CczKMGDqAW4ABnQV2QzekoCG4K+w795eTwq+oyh8uZS+stES0KoiVCsbQSynaBPQSgJZpKaTRw2qf+mefnKr+KBn5xfSOxRecgysCjUZQiewdLwYx64/oy14aVz27JpQMFRKw1zftzd0/fG+Hrx4o8fFS6laSiX5C0jK5pJBdHtxxaE9HQFA0kBbJzLWz5U6DmFzQzc/S7feSm+Pn1IM6eHla5XVD1aSxwJwQZUNJi0Gx5SBNAmKNNTADoAdq16VWvwCBtBRO//va6Bcd9tznbWfRqjVZihgoDF1J//ByrYCJh2ixsBcF1LnIrKHLuKjDG26I531n1X3FGoPisIFQM5FP9OMFpuxeD4Ba3eOzyYdQgFzUS/Lm/yN7mdox5rF8E1H3U8OAAtRGlN/rJLSV4ahfgeckyLa0V2Tq2mgVbpTluXtfBBMJWu8r3UwLDXvrxSrDTDCjxOwZqPaaTGQMW3pVfn4uVN8IBoK9zvd4n+JdH8eSjqoUsf76DAN2ymsgNkyzN5r6IjcHAAzFL8qTgmvyQeCGezJ0aBTokE7oMdWm8M0zGN3w9hiOY+5nwE6/LWhTPJJ85X4q8cMY2EOG18CzUDDrG4Cuuf3VRq8JXfrsFAROgU3Nun4A6Y17XRG8AfAAAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="小键盘/ic_调色盘" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_colors">
+            <circle id="椭圆形" fill="url(#pattern-1)" cx="10" cy="10" r="10"></circle>
+            <path d="M10,0 C4.4771525,0 0,4.4771525 0,10 C0,15.5228475 4.4771525,20 10,20 C15.5228475,20 20,15.5228475 20,10 C20,4.4771525 15.5228475,0 10,0 Z M10,1 C14.9705627,1 19,5.02943725 19,10 C19,14.9705627 14.9705627,19 10,19 C5.02943725,19 1,14.9705627 1,10 C1,5.02943725 5.02943725,1 10,1 Z" id="椭圆形" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <circle id="椭圆形" fill="#FFFFFF" cx="10" cy="10" r="3.33333333"></circle>
+        </g>
+    </g>
+</svg>

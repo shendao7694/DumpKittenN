@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="34px" viewBox="0 0 180 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_stage_input_btnstroke</title>
+    <g id="主要页面设计尝试_竖版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设计文档-舞台交互控件" transform="translate(-598.000000, -5050.000000)">
+            <g id="编组-8" transform="translate(80.000000, 4550.000000)">
+                <g id="编组-7" transform="translate(62.000000, 49.000000)">
+                    <g id="选择对话框" transform="translate(28.000000, 107.000000)">
+                        <g id="编组" transform="translate(428.000000, 344.000000)">
+                            <rect id="矩形" x="0" y="0" width="180" height="34"></rect>
+                            <path d="M171.353911,8.71493409 C164.751623,23.0496877 150.260126,33 133.445026,33 L50.0104712,33 C33.2113088,33 18.7313465,23.0685403 12.1196574,8.75569065 C10.5441073,5.73369342 7.95335664,2.24868872 2.00100436,2.01268478 L2,1 L179.085407,0.999965971 C175.090193,2.38873009 172.891669,5.3038649 171.353911,8.71493409 Z" id="形状结合" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

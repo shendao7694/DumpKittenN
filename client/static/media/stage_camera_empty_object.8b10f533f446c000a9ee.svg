@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="438px" viewBox="0 0 500 438" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_mask_cognitive_object_empty</title>
+    <defs>
+        <polygon id="path-1" points="0 0 500 0 500 438 0 438"></polygon>
+    </defs>
+    <g id="认知-AI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="认知-AI-正在拍照-识别物体-无法舞台内开启摄像头" transform="translate(-31.000000, -185.000000)">
+            <g id="img_mask_cognitive_object_empty" transform="translate(31.000000, 185.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="矩形" fill="#E9EFFD" xlink:href="#path-1"></use>
+                <rect id="矩形" fill="#D8E0FB" opacity="0.5" mask="url(#mask-2)" x="85" y="64" width="330" height="310" rx="8"></rect>
+                <path d="M92,59 L408,59 C414.627417,59 420,64.372583 420,71 L420,367 C420,373.627417 414.627417,379 408,379 L92,379 C85.372583,379 80,373.627417 80,367 L80,71 C80,64.372583 85.372583,59 92,59 Z" id="矩形" stroke="#C0CAE6" stroke-width="3.55871886" opacity="0.600000024" stroke-linecap="round" stroke-dasharray="7.117437705015525" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
